@@ -29,6 +29,7 @@ pyrogram
 python-dotenv
 python-magic
 qbittorrent-api
+rclone
 requests
 telegraph
 tenacity
